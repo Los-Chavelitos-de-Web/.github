@@ -30,12 +30,6 @@ Bienvenidos al repositorio oficial de **Los Chavelitos de Web**, un grupo de est
 - **ORCID:** [0000-0002-2347-0254](https://orcid.org/0000-0002-2347-0254)
 - Experto en la gestión de proyectos y análisis de datos.
 
-## Asesor
-
-### **Henry Miller García Vargas**
-- **ORCID:** [0000-0003-3374-3065](https://orcid.org/0000-0003-3374-3065)
-- Magíster en Ingeniería, experto en asesoría de proyectos tecnológicos.
-
 ---
 
 ## Proyectos Destacados
